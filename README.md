@@ -59,10 +59,3 @@ The analysis is based on four main relational tables:
 
 ---
 
-
-## 📌 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Manoj-Kumar-8/pizzasDataAnalysis.git
-   cd pizzasDataAnalysis
