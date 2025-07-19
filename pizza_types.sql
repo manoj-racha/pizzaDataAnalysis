@@ -1,0 +1,1 @@
+select * from project1.pizza_types;
